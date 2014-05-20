@@ -116,3 +116,4 @@ V1.9
 - 1.9.11 Added demographics tracking option thanks to AdamDrobotij
 - 1.9.12 Added non-interaction event tracking option
 - 1.9.13 jQuery references inside closure changed to $ setting cookies to url instead of "none" for cross domain with multiple codes
+- 1.9.14 Added link tracking support for .exe files
