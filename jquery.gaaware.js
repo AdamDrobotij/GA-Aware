@@ -6,7 +6,7 @@ Company: Clockwork Active Media Systems
 Company Site: clockwork.net
 License: MIT
 Copyright (C) 2012 Clockwork Active Media Systems
-Version: 1.9.13
+Version: 1.9.14
 **************************************/
 
 (function ($) {
@@ -25,7 +25,7 @@ Version: 1.9.13
 			domains:				[],
 			include_only:			null,
 			exclude_subdomains:		['preview', 'dev', 'test', 'stage', 'review', 'demo', 'train'],
-			asset_extentions:		['pdf', 'txt', 'csv', 'doc', 'docx', 'xls', 'xlsx', 'ppt', 'jpg', 'jpeg', 'png', 'gif', 'psd', 'ai', 'eps', 'zip', 'xml', 'json', 'avi', 'mp4', 'mp3', 'mov', 'mpeg', 'wmv', 'rtf', 'swf', 'flv', 'js', 'css', 'eot', 'svg', 'ttf', 'woff', 'otf'],
+			asset_extentions:		['pdf', 'txt', 'csv', 'doc', 'docx', 'xls', 'xlsx', 'ppt', 'jpg', 'jpeg', 'png', 'gif', 'psd', 'ai', 'eps', 'zip', 'xml', 'json', 'avi', 'mp4', 'mp3', 'mov', 'mpeg', 'wmv', 'rtf', 'swf', 'flv', 'js', 'css', 'eot', 'svg', 'ttf', 'woff', 'otf', 'exe'],
 			track_alt_protocols:	['mailto', 'spotify', 'ftp', 'file', 'tel'],
 			vpv_prefix:				'/vpv',
 			track_external_links:	true,
